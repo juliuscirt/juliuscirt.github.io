@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debesų kompiuterija 4 laboratorinis darbas</title>
+    <link>https://juliuscirt.github.io/</link>
+    <description>Recent content on Debesų kompiuterija 4 laboratorinis darbas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2024 18:35:40 +0300</lastBuildDate>
+    <atom:link href="https://juliuscirt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>naujas puslapis 1</title>
+      <link>https://juliuscirt.github.io/posts/pirmaspuslapis/</link>
+      <pubDate>Mon, 13 May 2024 18:35:40 +0300</pubDate>
+      <guid>https://juliuscirt.github.io/posts/pirmaspuslapis/</guid>
+      <description>Pakeičiau draft tipą iš true į false, taip pat pakeičiau title kuris buvo tuščias į &amp;ldquo;naujas puslapis 1&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>
