@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debesų kompiuterija 4 laboratorinis darbas</title>
-    <link>https://juliuscirt.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Debesų kompiuterija 4 laboratorinis darbas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 18:35:40 +0300</lastBuildDate>
-    <atom:link href="https://juliuscirt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 19:11:52 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>naujas puslapis 2</title>
+      <link>http://localhost:1313/posts/antraspuslapis/</link>
+      <pubDate>Mon, 13 May 2024 19:11:52 +0300</pubDate>
+      <guid>http://localhost:1313/posts/antraspuslapis/</guid>
+      <description>for(int i=0;i&amp;lt;n;i++){ std::cout&amp;laquo;i&amp;laquo;endl; }</description>
+    </item>
     <item>
       <title>naujas puslapis 1</title>
-      <link>https://juliuscirt.github.io/posts/pirmaspuslapis/</link>
+      <link>http://localhost:1313/posts/pirmaspuslapis/</link>
       <pubDate>Mon, 13 May 2024 18:35:40 +0300</pubDate>
-      <guid>https://juliuscirt.github.io/posts/pirmaspuslapis/</guid>
+      <guid>http://localhost:1313/posts/pirmaspuslapis/</guid>
       <description>Pakeičiau draft tipą iš true į false, taip pat pakeičiau title kuris buvo tuščias į &amp;ldquo;naujas puslapis 1&amp;rdquo;</description>
     </item>
   </channel>
